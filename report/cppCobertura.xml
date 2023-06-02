@@ -2,7 +2,7 @@
 <coverage line-rate="0.8571428571428571" branch-rate="0.5" lines-covered="6" lines-valid="7"
     branches-covered="1" version="gcovr 6.0">
     <packages>
-        <package name="">
+        <package name="aaa">
             <classes>
                 <class filename="clock.c" name="clock">
                     <lines>
