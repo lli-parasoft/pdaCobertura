@@ -6050,33 +6050,33 @@
         </package>
     </packages>
 	<sources>
-		<source>app/src/main/java/com/parasoft/demoapp/config/security</source>
-		<source>app/src/main/java/com/parasoft/demoapp/config</source>
-		<source>app/src/main/java/com/parasoft/demoapp/config/activemq</source>
-		<source>app/src/main/java/com/parasoft/demoapp</source>
-		<source>app/src/main/java/com/parasoft/demoapp/config/kafka</source>
-		<source>app/src/main/java/com/parasoft/demoapp/config/datasource</source>
-		<source>app/src/main/java/com/parasoft/demoapp/config/rabbitmq</source>
-		<source>app/src/main/java/com/parasoft/demoapp/config/endpoint</source>
-		<source>app/src/main/java/com/parasoft/demoapp/config/interceptor</source>
-		<source>app/src/main/java/com/parasoft/demoapp/controller</source>
-		<source>app/src/main/java/com/parasoft/demoapp/defaultdata/global</source>
-		<source>app/src/main/java/com/parasoft/demoapp/defaultdata</source>
-		<source>app/src/main/java/com/parasoft/demoapp/defaultdata/industry</source>
-		<source>app/src/main/java/com/parasoft/demoapp/dto</source>
-		<source>app/src/main/java/com/parasoft/demoapp/exception</source>
-		<source>app/src/main/java/com/parasoft/demoapp/grpc/message</source>
-		<source>app/src/main/java/com/parasoft/demoapp/graphql</source>
-		<source>app/src/main/java/com/parasoft/demoapp/messages</source>
-		<source>app/src/main/java/com/parasoft/demoapp/grpc/service</source>
-		<source>app/src/main/java/com/parasoft/demoapp/grpc</source>
-		<source>app/src/main/java/com/parasoft/demoapp/grpc/util</source>
-		<source>app/src/main/java/com/parasoft/demoapp/service</source>
-		<source>app/src/main/java/com/parasoft/demoapp/repository/industry</source>
-		<source>app/src/main/java/com/parasoft/demoapp/repository/global</source>
-		<source>app/src/main/java/com/parasoft/demoapp/model/global/preferences</source>
-		<source>app/src/main/java/com/parasoft/demoapp/model/global</source>
-		<source>app/src/main/java/com/parasoft/demoapp/model/industry</source>
-		<source>app/src/main/java/com/parasoft/demoapp/util</source>
+		<source>src/main/java/com/parasoft/demoapp/config/security</source>
+		<source>src/main/java/com/parasoft/demoapp/config</source>
+		<source>src/main/java/com/parasoft/demoapp/config/activemq</source>
+		<source>src/main/java/com/parasoft/demoapp</source>
+		<source>src/main/java/com/parasoft/demoapp/config/kafka</source>
+		<source>src/main/java/com/parasoft/demoapp/config/datasource</source>
+		<source>src/main/java/com/parasoft/demoapp/config/rabbitmq</source>
+		<source>src/main/java/com/parasoft/demoapp/config/endpoint</source>
+		<source>src/main/java/com/parasoft/demoapp/config/interceptor</source>
+		<source>src/main/java/com/parasoft/demoapp/controller</source>
+		<source>src/main/java/com/parasoft/demoapp/defaultdata/global</source>
+		<source>src/main/java/com/parasoft/demoapp/defaultdata</source>
+		<source>src/main/java/com/parasoft/demoapp/defaultdata/industry</source>
+		<source>src/main/java/com/parasoft/demoapp/dto</source>
+		<source>src/main/java/com/parasoft/demoapp/exception</source>
+		<source>src/main/java/com/parasoft/demoapp/grpc/message</source>
+		<source>src/main/java/com/parasoft/demoapp/graphql</source>
+		<source>src/main/java/com/parasoft/demoapp/messages</source>
+		<source>src/main/java/com/parasoft/demoapp/grpc/service</source>
+		<source>src/main/java/com/parasoft/demoapp/grpc</source>
+		<source>src/main/java/com/parasoft/demoapp/grpc/util</source>
+		<source>src/main/java/com/parasoft/demoapp/service</source>
+		<source>src/main/java/com/parasoft/demoapp/repository/industry</source>
+		<source>src/main/java/com/parasoft/demoapp/repository/global</source>
+		<source>src/main/java/com/parasoft/demoapp/model/global/preferences</source>
+		<source>src/main/java/com/parasoft/demoapp/model/global</source>
+		<source>src/main/java/com/parasoft/demoapp/model/industry</source>
+		<source>src/main/java/com/parasoft/demoapp/util</source>
     </sources>
 </coverage>
