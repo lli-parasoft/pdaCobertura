@@ -6050,13 +6050,13 @@
         </package>
     </packages>
 	<sources>
-        <source>app/src/main/java/com/parasoft/demoapp/config/security</source>
-        <source>app/src/main/java/com/parasoft/demoapp/config</source>
-        <source>app/src/main/java/com/parasoft/demoapp/config.activemq</source>
-        <source>app/src/main/java/com/parasoft/demoapp</source>
-        <source>app/src/main/java/com/parasoft/demoapp/config/kafka</source>
-        <source>app/src/main/java/com/parasoft/demoapp/config/datasource</source>
-        <source>app/src/main/java/com/parasoft/demoapp/config/rabbitmq</source>
+		<source>app/src/main/java/com/parasoft/demoapp/config/security</source>
+		<source>app/src/main/java/com/parasoft/demoapp/config</source>
+		<source>app/src/main/java/com/parasoft/demoapp/config/activemq</source>
+		<source>app/src/main/java/com/parasoft/demoapp</source>
+		<source>app/src/main/java/com/parasoft/demoapp/config/kafka</source>
+		<source>app/src/main/java/com/parasoft/demoapp/config/datasource</source>
+		<source>app/src/main/java/com/parasoft/demoapp/config/rabbitmq</source>
 		<source>app/src/main/java/com/parasoft/demoapp/config/endpoint</source>
 		<source>app/src/main/java/com/parasoft/demoapp/config/interceptor</source>
 		<source>app/src/main/java/com/parasoft/demoapp/controller</source>
