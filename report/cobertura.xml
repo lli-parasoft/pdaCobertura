@@ -2,10 +2,9 @@
 <coverage line-rate="0.8571428571428571" branch-rate="0.5" lines-covered="6" lines-valid="7"
     branches-covered="1" version="gcovr 6.0">
     <packages>
-        <package name="com.parasoft.demoapp.config.security">
+        <package name="">
             <classes>
-                <class filename="CustomAccessDeniedHandler.java"
-                    name="com.parasoft.demoapp.config.security.CustomAccessDeniedHandler">
+                <class filename="clock.c" name="clock">
                     <lines>
                         <line number="16" hits="1"></line>
                         <line number="20" hits="2"></line>
